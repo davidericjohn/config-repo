@@ -5,7 +5,7 @@ cards:
   message: "Hey, welcome to SampleBank cards related prod APIs"
   contactDetails:
     name: "Jane Doe - Product Owner"
-    email: "jane@xyz.com"
+    email: "{cipher}13b4c3d745dc5e7c79afecca0a3b632fb10d76cee809ce60a34b67d9fd6bf0e9"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
