@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to SampleBank accounts related webhook APIs"
   contactDetails:
     name: "Jane Doe - Product Owner"
-    email: "{cipher}13b4c3d745dc5e7c79afecca0a3b632fb10d76cee809ce60a34b67d9fd6bf0e"
+    email: "{cipher}13b4c3d745dc5e7c79afecca0a3b632fb10d76cee809ce60a34b67d9fd6bf0e9"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
