@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to SampleBank loans related QA APIs "
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "jane@xyz.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
